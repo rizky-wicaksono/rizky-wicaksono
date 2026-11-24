@@ -1,4 +1,4 @@
-# Hi, I'm Rizky 👋
+# Hi, I'm Rizky Wicaksono👋
 
 **Public Relations Consultant** in Jakarta, with 5+ years in public relations and marketing communications.
 
