@@ -14,7 +14,9 @@ I'm a PR person, not a developer. I'm learning to build with AI, with the goal o
 - Turning my PR playbooks into small, reusable tools
 - Writing about what works and what doesn't
 
-First project: coming soon.
+## Tools
+- [File Shrinker](https://rizky-wicaksono.github.io/file-shrinker/): make PDFs, videos and audio small enough to email, right in your browser. Files are never uploaded. ([source](https://github.com/rizky-wicaksono/file-shrinker))
+- All tools: https://rizky-wicaksono.github.io/tools/
 
 ## Find me
 - Website: https://rizky-wicaksono.github.io/
